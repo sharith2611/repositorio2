@@ -1,4 +1,4 @@
-# Biblioteca con listas
+# Sistema de Bancos 
 
 Este proyecto implementa un Sistema de Gestión de Librería en Python a travez de listas compuestas, este sistema ofrece diferentes fucniones para administrar clientes, libros y ventas dentro de una librería. A través de una interfaz de consola, los usuarios pueden realizar diversas operaciones, como ingresar clientes, registrar libros, realizar ventas y obtener estadísticas sobre las ventas reealizas y clientes
 
